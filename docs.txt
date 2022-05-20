@@ -1,0 +1,15 @@
+Inicio de configuracion: bash -c "$(curl -fsSL cli.calidad-architect.com)"
+
+Despliegue: make submit
+
+Token peticiones externas: https://sso-client-qa-aoysdjlrqa-uc.a.run.app/login
+
+Sonar web: https://sonar.devops.calidad-architect.com/projects
+
+Manual de configuracion sybase: https://docs.google.com/document/d/1yDlyIvW22WCGhv_kW03YtCsFra7wY0tnyT3zTYaJRfg/edit?usp=sharing
+
+Manual de configuracion pub sub:
+https://docs.google.com/document/d/1BeKUMQsRq5L1tT8KCjz8GKRz0MtspIRNjyOTFO4r06E/edit?usp=sharing
+
+Manual de creacion de secrets:
+https://docs.google.com/document/d/16HjV2kXv7oF8N8t-VRK1bQNUo-aMvwGKAWErXHppLQQ/edit?usp=sharing
